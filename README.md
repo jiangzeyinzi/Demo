@@ -1,4 +1,4 @@
-# REAMDME
+# README
 
 Hello Git!
         ---JZYZ
